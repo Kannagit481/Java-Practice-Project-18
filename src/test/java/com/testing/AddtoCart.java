@@ -20,7 +20,7 @@ public class AddtoCart {
   }
   @BeforeMethod
   public void beforeMethod() {
-	  System.setProperty("webdriver.chrome.driver",  "C:\\Users\\srir7\\OneDrive\\Desktop\\chromedriver_win32/chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver",  "C:\\Users\\Kannan\\OneDrive\\Desktop\\chromedriver_win32/chromedriver.exe");
 		wd = new ChromeDriver();
   }
 
